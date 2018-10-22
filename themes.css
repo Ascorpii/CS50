@@ -1,0 +1,16 @@
+
+
+body {
+    background-color: #ffbc82;
+}
+
+h1:hover{
+  background-color: #ffbc82;
+  color: white;
+  font-size: 200%;
+
+}
+
+a:visited {
+    color: green;
+}
