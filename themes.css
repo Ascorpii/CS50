@@ -1,16 +1,48 @@
 
 
 body {
-    background-color: #ffbc82;
+    background-color: white;
 }
 
-h1:hover{
-  background-color: #ffbc82;
+
+
+
+a:hover{
+  background-color: #81cc7e;
   color: white;
-  font-size: 200%;
+  font-size: 120%;
 
 }
 
-a:visited {
+/* a:visited {
     color: green;
+} */
+
+@media print{
+
+  .screen-only{
+    display: none;
+    font-size: 8px;
+  }
+}
+
+.vegebox {
+
+  background: white ;
+  margin: auto;
+  font-size: 200%;
+}
+
+.credits {
+
+  font-size: 200%;
+  text-align: center;
+
+}
+
+
+th{
+
+  background-color: #4d768e;
+  color: white;
 }

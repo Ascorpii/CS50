@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAKA,OAAO;EAEL,gBAAgB,EAPR,GAAG;;AAUb,SAAS;EAEP,gBAAgB,EAXN,KAAK;;AAcjB,OAAO;EAEL,gBAAgB,EAfR,OAAO;;AAkBjB,QAAQ;EAEN,gBAAgB,EAnBP,MAAM",
+"sources": ["vegecolors.scss"],
+"names": [],
+"file": "vegecolors.css"
+}
